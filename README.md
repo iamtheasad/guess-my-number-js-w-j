@@ -42,6 +42,15 @@ The game provides instant feedback, score tracking, and a persistent high score.
 
 ---
 
+## 🎯 Project Purpose
+
+This project was built to:
+
+- Strengthen core **JavaScript fundamentals**
+- Improve performance-focused front-end development skills
+
+---
+
 ## 🧠 JavaScript Concepts Used
 
 - DOM manipulation
