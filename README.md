@@ -1,5 +1,7 @@
 # Guess My Number 🎯 (Vanilla JavaScript)
 
+🔗 **Live Demo:** (https://guess-my-number-js-w-j.netlify.app/)
+
 A fun number guessing game built using **vanilla JavaScript**, where the player guesses a random number between **1 and 20**.  
 The game provides instant feedback, score tracking, and a persistent high score.
 
